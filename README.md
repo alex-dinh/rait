@@ -11,9 +11,9 @@ https://github.com/alex-dinh/rait/assets/19515503/8b6c6486-0127-49a7-b1f9-e933d2
 ## Project 2: Solar System - Particle Filters
 After navigating through the Milky Way, you've reached the Solar System. Now you need to make your way back to Earth, but there aren't enough asteroids for your ship to hop back to Earth directly. Using measurements of the gravitational pulls of the planets in the solar system, the task is to implement a particle filter to localize your spaceship in relation to the other planets and the Sun. Once you have localized your spaceship, send SOS messages home to Earth, and a rescue ship will be sent out to bring you home.
 
-https://github.com/alex-dinh/rait/assets/19515503/373b7c37-c398-4258-a217-3ca16f8fc2af
-
 https://github.com/alex-dinh/rait/assets/19515503/f02f26e3-3b01-4248-8383-8e94b2fbc74d
+
+https://github.com/alex-dinh/rait/assets/19515503/373b7c37-c398-4258-a217-3ca16f8fc2af
 
 ## Project 3: Drone Control - PID
 Autonomous drones are used to maintain critical infrastructure, e.g., inspect gas pipelines for leaks. The goal of this project is to implement a PID controller for an autonomous drone to fly to a target elevation and horizontal position and hover at some target location for a specified time. A PID controller is a component of a feedback control system. The system (usually called “plant”) is supposed to be maintained in a “steady” state. For example, a car that needs to stay in the middle of a lane, or a thermostat that needs to maintain a particular temperature, etc.
